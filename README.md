@@ -13,7 +13,7 @@ This project analyzes student performance based on their behavior and predicts o
 The confusion matrix shows how well the model performed in classifying students correctly. It highlights the number of true positives, true negatives, false positives, and false negatives.
 
 
-![Confusion Matrix](images/confusion_matrix(1).png)
+![Confusion [Matrix]()](https://github.com/santoshml-lab/student-performance-analysis-/blob/main/confusion_matrix%20(1).png)
 
 
 
