@@ -20,7 +20,7 @@ The confusion matrix shows how well the model performed in classifying students 
 ### Prediction Distribution
 The prediction distribution shows how the model's predictions are spread across different classes, helping visualize class balance and prediction trends.
 
-![Prediction Distribution](Prediction_distribution.png)
+![Prediction Distribution](https://github.com/santoshml-lab/student-performance-analysis-/blob/main/prediction_distribution.png)
 
 ### Key Insights
 - The model achieved high accuracy in predicting student performance.
