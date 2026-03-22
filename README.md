@@ -14,7 +14,7 @@ The confusion matrix shows how well the model performed in classifying students 
 
 
 
-![Confusion Matrix](confusion_matrix (1).png)
+![Confusion Matrix](confusion_matrix(1).png)
 
 ### Prediction Distribution
 The prediction distribution shows how the model's predictions are spread across different classes, helping visualize class balance and prediction trends.
