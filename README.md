@@ -12,7 +12,7 @@ This project analyzes student performance based on their behavior and predicts o
 ### Confusion Matrix
 The confusion matrix shows how well the model performed in classifying students correctly. It highlights the number of true positives, true negatives, false positives, and false negatives.
 
-confusion_matrix (1).png
+
 
 ![Confusion Matrix](confusion_matrix (1).png)
 
